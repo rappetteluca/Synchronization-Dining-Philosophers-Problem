@@ -17,11 +17,11 @@ and synchronization deadlock. The first version of the program presents deadlock
 the second version of the program fixes the deadlock problem by breaking the
 hold and wait condition.
 
-**Note:** *I apologize for the strange directories in this project, it was a two part assignment but this is always the classic synchronization problem*
+**Note:** *I apologize for the strange directories in this project, it was a two part assignment but this is always the classic synchronization problem.*
 
 ## How to build the software
 
-Simply type make on the command line in the proper directory (/part1/)  
+Simply type make on the command line in the proper directory. (/part1/)  
 
 
 ## How to use the software
