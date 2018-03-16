@@ -1,5 +1,5 @@
-# CS441/541
-## Project 4
+#  Dining Philosophers Problem
+## CS441
 
 ## Author(s):
 
@@ -26,7 +26,7 @@ Simply type make on the command line in the proper directory (/part1/)
 
 ## How to use the software
 
-Execute the command './diners-v1' or './diners-v2' with at least one argument
+Execute the command './part1/diners-v1' or './part1/diners-v2' with at least one argument
 on a UNIX-like shell.
 
 Valid Arguments:
